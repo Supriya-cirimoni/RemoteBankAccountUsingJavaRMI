@@ -59,4 +59,4 @@ The client connection must be established once the server connection is establis
 
 # Observations and Results
 
-There are mentioned in the Assignment1.docx
+They are mentioned in the Assignment1.docx
